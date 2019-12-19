@@ -13,6 +13,7 @@ def badge_maker(name)
    return "Hello, my name is #{name}."
  end
 
+def 
 # return badge_maker("Arel")
 # puts "Hello, my name is #{"Arel"}."
 # end
