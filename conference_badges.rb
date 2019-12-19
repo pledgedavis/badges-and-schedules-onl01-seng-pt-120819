@@ -17,7 +17,7 @@ def batch_badge_creator(attendees)
   counter = 0 
   new_array = []
   while counter < attendees.length
-new_array << attendees[counter]
+new_array << badge_maker(attendees[counter])
   counter +=1
   end
   new_array
