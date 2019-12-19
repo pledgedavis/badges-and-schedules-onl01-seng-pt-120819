@@ -15,7 +15,7 @@ def badge_maker(name)
 
 def batch_badge_creator(attendees)
   return attendees.length
-  
+end
   
   
   
