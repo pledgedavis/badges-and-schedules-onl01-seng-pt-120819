@@ -25,7 +25,9 @@ end
   
   def assign_rooms(attendees)
     counter = 0 
-    
+    new_array = []
+    while counter < attendees.length
+    new_array << ""
   
   
   
