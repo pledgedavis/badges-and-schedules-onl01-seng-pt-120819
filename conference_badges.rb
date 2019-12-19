@@ -33,10 +33,13 @@ end
   new_array
 end
   
-  def printer
-    
-  
-  
+  def printer(attendees)
+    counter = 0 
+    new_array =[]
+   while  counter < attendees.length
+   new_array << assign_roomsattendees[counter]
+  end
+end
 # return badge_maker("Arel")
 # puts "Hello, my name is #{"Arel"}."
 # end
