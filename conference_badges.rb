@@ -33,6 +33,8 @@ end
   new_array
 end
   
+  def printer
+    
   
   
 # return badge_maker("Arel")
