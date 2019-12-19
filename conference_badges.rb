@@ -28,7 +28,10 @@ end
     new_array = []
     while counter < attendees.length
     new_array << "Hello, #{attendees[counter]} You'll be assigned to room !",
-  
+    counter +=1
+  end
+  new_array
+end
   
   
   
