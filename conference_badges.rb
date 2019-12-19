@@ -10,10 +10,10 @@
 # square_array([1,2,3])
 
 def badge_maker(name)
-#   return "Hello, my name is #{name}."
-# end
+   return "Hello, my name is #{name}."
+ end
 
-return badge_maker("Arel")
- puts "Hello, my name is #{"Arel"}."
-end
+# return badge_maker("Arel")
+# puts "Hello, my name is #{"Arel"}."
+# end
 
