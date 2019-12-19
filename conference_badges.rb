@@ -24,6 +24,8 @@ new_array << "Hello, my name is #{attendees[counter]}."
 end
   
   def assign_rooms(attendees)
+    counter = 0 
+    
   
   
   
