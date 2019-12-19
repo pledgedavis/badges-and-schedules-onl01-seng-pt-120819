@@ -34,13 +34,13 @@ end
 end
   
   def printer(attendees)
-    counter = 0 
-    new_array =[]
-   while  counter < attendees.length
-   new_array << attendees[counter]
-   counter +=1
-  end
-  new_array
+  #   counter = 0 
+  #   new_array =[]
+  # while  counter < attendees.length
+  # new_array << attendees[counter]
+  # counter +=1
+  # end
+  # new_array
 end
 # return badge_maker("Arel")
 # puts "Hello, my name is #{"Arel"}."
