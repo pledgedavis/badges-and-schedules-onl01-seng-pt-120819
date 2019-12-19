@@ -19,8 +19,8 @@ def batch_badge_creator(attendees)
   while counter < attendees.length
 new_array << attendees[counter]
   counter +=1
-  new_array
   end
+  new_array
 end
   
   
